@@ -1,4 +1,4 @@
-# nodejs_simple_student_management_api
+# ExpressJS Simple Student Management API
 - Project is build for learning create Restful API 
 - Technologies: NodeJS, ExpressJS, SwaggerUI
 
