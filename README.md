@@ -4,7 +4,7 @@
 
 How to use:
 - Clone this repository
-- This project base on DB first, so need to setup Database on local
+- This project base on DB first, so need to import database.sql to MySQL Database Management
 - run: npm install
 - run: npm start
 - Typing: http://localhost:5000/hieund20/simplestudentmanagement/api-docs/ to open SwaggerUI
